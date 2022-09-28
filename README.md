@@ -17,6 +17,9 @@ Hello 🖐️ friends, Welcome to My GitHub. 💕<br>I am Riyad Mahmud and I tri
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ScribbleRiyad&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+<img src="https://i.ibb.co/j6zRyzk/scribble-logo-animation.gif"/>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -26,6 +29,6 @@ Hello 🖐️ friends, Welcome to My GitHub. 💕<br>I am Riyad Mahmud and I tri
 
 [![](https://visitcount.itsvg.in/api?id=ScribbleRiyad&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://i.ibb.co/j6zRyzk/scribble-logo-animation.gif"/>
 
-![alt text](./images/bottom.svg)
+
+![alt text](./bottom.svg)
