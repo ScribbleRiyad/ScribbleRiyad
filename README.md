@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hello 🖐️ friends, Welcome to My GitHub. 💕<br>I am Riyad Mahmud and I tried most fields of programming and Sector  such as  <br><br>🔰Mobile Application Development, <br>🔰 Flutter  Framework & Dart Programming<br>🔰Web Design and Development, <br>🔰 Graphic Design<br>🔰 WordPress Development,<br>🔰 Cybersecurity & Ethical Hacking ,etc.<br><br>❇️Finally I was able to find my interest, and that was Mobile Application Design and Development . <br><br>🖥️It has been almost 2 years ,I am coding.<br><br>🎓 I am a Computer Science  Engineering  Student and also Graduate from American International University Bangladesh (AIUB)<br><br> ✈️ I love to explore new places and love to travel a lot.
+Hello 🖐️ friends, Welcome to My GitHub. 💕<br>I am Riyad Mahmud and I tried most fields of programming and Sector  such as  <br><br>🔰Mobile Application Development, <br>🔰 Flutter  Framework & Dart Programming<br>🔰Web Design and Development, <br>🔰 Graphic Design<br>🔰 WordPress Development,<br>🔰 Cybersecurity & Ethical Hacking ,etc.<br><br>❇️Finally I was able to find my interest, and that was Mobile Application Design and Development . <br><br>🖥️It has been almost 2 years ,I am coding.<br><br>🎓 I am a Computer Science  Engineering  Student and also Graduate from American International University Bangladesh (AIUB)<br><br>💫Now I working Profeessionally as Junior Mobile Application developer <br><br>✈️ I love to explore new places and love to travel a lot.
 
 
 ## 🌐 Socials:
